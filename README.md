@@ -1,8 +1,8 @@
 # HTML
 
-Список тэгов(шпаргалка) - https://html5book.ru/examples/html-tags.html
-Все про html5 по русски - https://webref.ru/html
-Ответы на типовые вопросы - https://webref.ru/recipe
+* Список тэгов(шпаргалка) - https://html5book.ru/examples/html-tags.html
+* Все про html5 по русски - https://webref.ru/html
+* Ответы на типовые вопросы - https://webref.ru/recipe
 
 ---
 
